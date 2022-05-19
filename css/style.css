@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+#header {
+  background: #fff;
+  transition: all 0.5s;
+  z-index: 997;
+  padding: 20px 0;
+}
+
+#header .logo img {
+  max-height: 100px;
+}
+
+#videoPlayer {
+  background: gainsboro;
+}
+
+#listPlayer {
+  background: blue;
+}
